@@ -7,6 +7,8 @@ public class Application {
 
 		System.out.println("Çalýþýyor.");
 		
+		System.out.println("Çalýþýyor.");
+		
 	}
 
 }
